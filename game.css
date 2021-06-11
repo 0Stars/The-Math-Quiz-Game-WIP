@@ -1,6 +1,6 @@
 body
 {
-	background: #ce4a4a;
+	background: #c01959;
 }
 
 	.login_div1 , .login_div2
@@ -16,14 +16,18 @@ body
 {
 	display: inline-block;
 	margin-left: 20px;
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
 }
 #word
 {
 	width: 60%;
+	font-family: 'Ubuntu', sans-serif;
 }
 #word_display
 {
 	letter-spacing: 5px;
+	font-family: 'Ubuntu', sans-serif;
 }
 #output
 {
@@ -33,6 +37,64 @@ border-top: 10px solid #AA4465;
 padding: 10px;
 float: none;
 text-align: left;
+font-family: 'Ubuntu', sans-serif;
+}
+
+h1
+{
+	font-family: 'Ubuntu', sans-serif;
 }
 
 
+h2
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h3
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h4
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h5
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+
+h6
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+p
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+label
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+button
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+input
+{
+	font-family: 'Ubuntu', sans-serif;
+}
+
+#player1_score , #player2_score
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-family: 'Ubuntu', sans-serif;
+	color: white; 
